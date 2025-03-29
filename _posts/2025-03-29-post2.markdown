@@ -1,0 +1,13 @@
+---
+layout: post
+title: post-test
+date: 2025-03-29
+category: algorithm
+---
+# post-sample
+> Hello!
+
+This is code
+```c++
+print 'hello world'
+```
