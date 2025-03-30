@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-01-02 19:31:29 +0900
+title:  Post Sample
+date:   2025-03-29 16:31:29 +0900
 category: ML/AI
 ---
+
+# post-sample
+> Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+
+This is code
+```ruby
+print 'hello world'
+```
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
