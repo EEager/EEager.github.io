@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Post Sample
+title:  포스트예제
 date:   2025-03-29 16:31:29 +0900
-category: ML/AI
+category: test2
 ---
 
 # post-sample
