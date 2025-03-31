@@ -2,9 +2,9 @@
 layout: post
 title:  블로그 목적
 date:   2025-03-29 16:31:29 +0900
-category: ML/AI
+category: test
 ---
-
+ 
 # **블로그 작성 목적**
 
 블로그를 작성하려는 목적은 **ML(Machine Learning)**과 **AI(Artificial Intelligence)**에 대해 깊이 연구하거나 학술적으로 접근하려는 것이 아니라, 지금까지 개발된 다양한 기술들을 전반적으로 이해하고 이를 직접 실습해보는 데 있음.
